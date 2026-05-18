@@ -1,3 +1,12 @@
-# first-repository-demo
-This is my first Git  repository.
-Author - Shakhawat Hossain
+#  C++ Calculator pro
+A simple terminal-based calculator built using C++
+## Features:
+-Addition 
+-Subtraction
+-Multiplication
+-Division
+## How to run 
+g++ main.cpp -o calculator 
+./calculator
+## Author
+Mohammad Shakhawat Hosaain
